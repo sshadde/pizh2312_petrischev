@@ -5,7 +5,7 @@ class SnowFlake:
         if size % 2 == 0:
             raise ValueError("Размер должен быть нечётным числом.")
         self.size = size
-        self._matrix = []
+        self._original_size = size
         self._generate_snowflake()
     
     def _generate_snowflake(self):
@@ -35,37 +35,36 @@ class SnowFlake:
         self.size += 2 * steps
         self._generate_snowflake()
     
-    def thicken(self):
-        """Утолщение снежинки: добавление линий звёздочек рядом с существующими."""
-        N = self.size
-        new_matrix = [[' ' for a in range(N)] for a in range(N)]
-        for i in range(N):
-            for j in range(N):
-                if self._matrix[i][j] == '*':
-                    new_matrix[i][j] = '*'
-                    if i > 0: new_matrix[i - 1][j] = '*'
-                    if i < N - 1: new_matrix[i + 1][j] = '*'
-                    if j > 0: new_matrix[i][j - 1] = '*'
-                    if j < N - 1: new_matrix[i][j + 1] = '*'
-        self._matrix = new_matrix
+    def thicken(self, steps):
+        """Восстанавливает снежинку, добавляя звездочки обратно, как было до thaw."""
+        new_size = self.size + 2 * steps
+        if new_size > self._original_size:
+            new_size = self._original_size
+        self.size = new_size
+        self._generate_snowflake()
     
     def __str__(self):
         """Возвращает строковое представление снежинки, чтобы удобно было печатать."""
         lines = [''.join(row) for row in self._matrix]
         return "\n".join(lines)
+    
+    def print_snowflake(self):
+        """Альтернативный метод печати (если не хотим переопределять __str__)."""
+        print(self.__str__())
 
-flake = SnowFlake(19)
-print("Изначальная снежинка (19x19):")
+
+flake = SnowFlake(11)
+print("Изначальная снежинка (11x11):")
 print(flake)
 
-flake.thicken()
-print("\nПосле thicken(): (утолщённая снежинка)")
+flake.thaw(2)
+print("\nПосле thaw(2): (теперь 7x7)")
+print(flake)
+    
+flake.thicken(1)
+print("\nПосле thicken(1): (восстановление до 9x9)")
 print(flake)
 
-flake.thaw(3)
-print("\nПосле thaw(1): (теперь 13x13)")
-print(flake)
-
-flake.freeze(1)
-print("\nПосле freeze(1): (теперь 15x15)")
+flake.freeze(2)
+print("\nПосле freeze(2): (теперь 13x13)")
 print(flake)
