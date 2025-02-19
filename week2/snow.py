@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 
 class AbstractSnowFlake(ABC):
+    """Абстрактный класс, представляющий снежинку"""
     @abstractmethod
     def thaw(self, steps):
         pass
