@@ -73,7 +73,7 @@ class Money:
         Параметры:
           - filename: Имя файла для сохранения.
         """
-        with open(filename, "w") as file:
+        with open(f"week4/money/{filename}", "w") as file:
             json.dump({"amount": self.amount, "currency": self.currency}, file)
     
     def load(self, filename: str):
@@ -83,7 +83,7 @@ class Money:
         Параметры:
           - filename: Имя файла для загрузки.
         """
-        with open(filename, "r") as file:
+        with open(f"week4/money/{filename}", "r") as file:
             data = json.load(file)
             self.amount = data["amount"]
             self.currency = data["currency"]
