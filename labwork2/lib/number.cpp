@@ -97,11 +97,23 @@ uint2022_t operator/(const uint2022_t& a, const uint2022_t& b) {
     return q;
 }
 
-bool operator==(const uint2022_t& lhs, const uint2022_t& rhs) {
-    return false;
+bool operator==(const uint2022_t& a, const uint2022_t& b) {
+    for (int i = 0; i < uint2022_t::SIZE; ++i)
+        if (a.data[i] != b.data[i]) return false;
+
+    return true;
 }
 
-bool operator!=(const uint2022_t& lhs, const uint2022_t& rhs) {
+bool operator!=(const uint2022_t& a, const uint2022_t& b) {
+    return !(a == b);
+}
+
+bool operator<(const uint2022_t& a, const uint2022_t& b) {
+    for (int i = uint2022_t::SIZE - 1; i >= 0; --i) {
+        if (a.data[i] < b.data[i]) return true;
+        if (a.data[i] > b.data[i]) return false;
+    }
+
     return false;
 }
 
