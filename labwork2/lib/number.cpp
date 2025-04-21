@@ -32,12 +32,37 @@ uint2022_t from_string(const char* buff) {
 
     return r;
 }
-uint2022_t operator+(const uint2022_t& lhs, const uint2022_t& rhs) {
-    return uint2022_t();
+
+uint2022_t operator+(const uint2022_t& a, const uint2022_t& b) {
+    uint2022_t r;
+    uint64_t carry = 0;
+
+    for (int i = 0; i < uint2022_t::SIZE; ++i) {
+        uint64_t t = (uint64_t)a.data[i] + b.data[i] + carry;
+        r.data[i] = uint32_t(t);
+        carry = t >> 32;
+    }
+
+    return r;
 }
 
-uint2022_t operator-(const uint2022_t& lhs, const uint2022_t& rhs) {
-    return uint2022_t();
+uint2022_t operator-(const uint2022_t& a, const uint2022_t& b) {
+    uint2022_t r;
+    int64_t borrow = 0;
+
+    for (int i = 0; i < uint2022_t::SIZE; ++i) {
+        int64_t t = (int64_t)a.data[i] - b.data[i] - borrow;
+
+        if (t < 0) {
+            t += (1LL << 32);
+            borrow = 1;
+        } else {
+            borrow = 0;
+        }
+        r.data[i] = uint32_t(t);
+    }
+
+    return r;
 }
 
 uint2022_t operator*(const uint2022_t& lhs, const uint2022_t& rhs) {
