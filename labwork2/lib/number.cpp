@@ -80,8 +80,21 @@ uint2022_t operator*(const uint2022_t& a, const uint2022_t& b) {
     return r;
 }
 
-uint2022_t operator/(const uint2022_t& lhs, const uint2022_t& rhs) {
-    return uint2022_t();
+uint2022_t operator/(const uint2022_t& a, const uint2022_t& b) {
+    uint2022_t zero;
+    uint2022_t one = from_uint(1);
+    uint2022_t dividend = a;
+    uint2022_t divisor = b;
+    uint2022_t q;
+
+    if (divisor == zero) return q;
+
+    while (!(dividend < divisor)) {
+        dividend = dividend - divisor;
+        q = q + one;
+    }
+
+    return q;
 }
 
 bool operator==(const uint2022_t& lhs, const uint2022_t& rhs) {
