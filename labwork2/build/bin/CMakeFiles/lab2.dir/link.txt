@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/lab2.dir/link.d CMakeFiles/lab2.dir/main.cpp.o -o lab2  ../lib/libnumber.a
