@@ -65,8 +65,19 @@ uint2022_t operator-(const uint2022_t& a, const uint2022_t& b) {
     return r;
 }
 
-uint2022_t operator*(const uint2022_t& lhs, const uint2022_t& rhs) {
-    return uint2022_t();
+uint2022_t operator*(const uint2022_t& a, const uint2022_t& b) {
+    uint2022_t r;
+    for (int i = 0; i < uint2022_t::SIZE; ++i) {
+        uint64_t carry = 0;
+
+        for (int j = 0; j + i < uint2022_t::SIZE; ++j) {
+            uint64_t t = (uint64_t)a.data[i] * b.data[j] + r.data[i + j] + carry;
+            r.data[i + j] = uint32_t(t);
+            carry = t >> 32;
+        }
+    }
+
+    return r;
 }
 
 uint2022_t operator/(const uint2022_t& lhs, const uint2022_t& rhs) {
