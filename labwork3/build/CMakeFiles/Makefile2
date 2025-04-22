@@ -63,52 +63,71 @@ CMAKE_BINARY_DIR = /home/yaroslav/pizh2312_petrischev/labwork3/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/sandpile.dir/all
+all: src/all
 .PHONY : all
 
 # The main recursive "codegen" target.
-codegen: CMakeFiles/sandpile.dir/codegen
+codegen: src/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
-preinstall:
+preinstall: src/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/sandpile.dir/clean
+clean: src/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/sandpile.dir
+# Directory level rules for directory src
+
+# Recursive "all" directory target.
+src/all: src/CMakeFiles/sandpile.dir/all
+.PHONY : src/all
+
+# Recursive "codegen" directory target.
+src/codegen: src/CMakeFiles/sandpile.dir/codegen
+.PHONY : src/codegen
+
+# Recursive "preinstall" directory target.
+src/preinstall:
+.PHONY : src/preinstall
+
+# Recursive "clean" directory target.
+src/clean: src/CMakeFiles/sandpile.dir/clean
+.PHONY : src/clean
+
+#=============================================================================
+# Target rules for target src/CMakeFiles/sandpile.dir
 
 # All Build rule for target.
-CMakeFiles/sandpile.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/build
+src/CMakeFiles/sandpile.dir/all:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/sandpile.dir/build.make src/CMakeFiles/sandpile.dir/depend
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/sandpile.dir/build.make src/CMakeFiles/sandpile.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/yaroslav/pizh2312_petrischev/labwork3/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target sandpile"
-.PHONY : CMakeFiles/sandpile.dir/all
+.PHONY : src/CMakeFiles/sandpile.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/sandpile.dir/rule: cmake_check_build_system
+src/CMakeFiles/sandpile.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/yaroslav/pizh2312_petrischev/labwork3/build/CMakeFiles 5
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sandpile.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/CMakeFiles/sandpile.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/yaroslav/pizh2312_petrischev/labwork3/build/CMakeFiles 0
-.PHONY : CMakeFiles/sandpile.dir/rule
+.PHONY : src/CMakeFiles/sandpile.dir/rule
 
 # Convenience name for target.
-sandpile: CMakeFiles/sandpile.dir/rule
+sandpile: src/CMakeFiles/sandpile.dir/rule
 .PHONY : sandpile
 
 # codegen rule for target.
-CMakeFiles/sandpile.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/codegen
+src/CMakeFiles/sandpile.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/sandpile.dir/build.make src/CMakeFiles/sandpile.dir/codegen
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/yaroslav/pizh2312_petrischev/labwork3/build/CMakeFiles --progress-num=1,2,3,4,5 "Finished codegen for target sandpile"
-.PHONY : CMakeFiles/sandpile.dir/codegen
+.PHONY : src/CMakeFiles/sandpile.dir/codegen
 
 # clean rule for target.
-CMakeFiles/sandpile.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/clean
-.PHONY : CMakeFiles/sandpile.dir/clean
+src/CMakeFiles/sandpile.dir/clean:
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/sandpile.dir/build.make src/CMakeFiles/sandpile.dir/clean
+.PHONY : src/CMakeFiles/sandpile.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

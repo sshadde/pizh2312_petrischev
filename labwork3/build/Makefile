@@ -126,104 +126,8 @@ sandpile: cmake_check_build_system
 
 # fast build rule for target.
 sandpile/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/build
+	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/sandpile.dir/build.make src/CMakeFiles/sandpile.dir/build
 .PHONY : sandpile/fast
-
-src/args_parser.o: src/args_parser.cpp.o
-.PHONY : src/args_parser.o
-
-# target to build an object file
-src/args_parser.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/args_parser.cpp.o
-.PHONY : src/args_parser.cpp.o
-
-src/args_parser.i: src/args_parser.cpp.i
-.PHONY : src/args_parser.i
-
-# target to preprocess a source file
-src/args_parser.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/args_parser.cpp.i
-.PHONY : src/args_parser.cpp.i
-
-src/args_parser.s: src/args_parser.cpp.s
-.PHONY : src/args_parser.s
-
-# target to generate assembly for a file
-src/args_parser.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/args_parser.cpp.s
-.PHONY : src/args_parser.cpp.s
-
-src/bmp_writer.o: src/bmp_writer.cpp.o
-.PHONY : src/bmp_writer.o
-
-# target to build an object file
-src/bmp_writer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/bmp_writer.cpp.o
-.PHONY : src/bmp_writer.cpp.o
-
-src/bmp_writer.i: src/bmp_writer.cpp.i
-.PHONY : src/bmp_writer.i
-
-# target to preprocess a source file
-src/bmp_writer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/bmp_writer.cpp.i
-.PHONY : src/bmp_writer.cpp.i
-
-src/bmp_writer.s: src/bmp_writer.cpp.s
-.PHONY : src/bmp_writer.s
-
-# target to generate assembly for a file
-src/bmp_writer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/bmp_writer.cpp.s
-.PHONY : src/bmp_writer.cpp.s
-
-src/main.o: src/main.cpp.o
-.PHONY : src/main.o
-
-# target to build an object file
-src/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
-
-src/main.i: src/main.cpp.i
-.PHONY : src/main.i
-
-# target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
-
-src/main.s: src/main.cpp.s
-.PHONY : src/main.s
-
-# target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
-
-src/sandpile.o: src/sandpile.cpp.o
-.PHONY : src/sandpile.o
-
-# target to build an object file
-src/sandpile.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/sandpile.cpp.o
-.PHONY : src/sandpile.cpp.o
-
-src/sandpile.i: src/sandpile.cpp.i
-.PHONY : src/sandpile.i
-
-# target to preprocess a source file
-src/sandpile.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/sandpile.cpp.i
-.PHONY : src/sandpile.cpp.i
-
-src/sandpile.s: src/sandpile.cpp.s
-.PHONY : src/sandpile.s
-
-# target to generate assembly for a file
-src/sandpile.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/sandpile.dir/build.make CMakeFiles/sandpile.dir/src/sandpile.cpp.s
-.PHONY : src/sandpile.cpp.s
 
 # Help Target
 help:
@@ -234,18 +138,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... sandpile"
-	@echo "... src/args_parser.o"
-	@echo "... src/args_parser.i"
-	@echo "... src/args_parser.s"
-	@echo "... src/bmp_writer.o"
-	@echo "... src/bmp_writer.i"
-	@echo "... src/bmp_writer.s"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
-	@echo "... src/sandpile.o"
-	@echo "... src/sandpile.i"
-	@echo "... src/sandpile.s"
 .PHONY : help
 
 
