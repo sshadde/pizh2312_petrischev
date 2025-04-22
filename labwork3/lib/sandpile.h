@@ -23,4 +23,3 @@ public:
     int getMinY() const;
     int getMaxY() const;
 };
-
