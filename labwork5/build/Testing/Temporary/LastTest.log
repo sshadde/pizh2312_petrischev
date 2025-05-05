@@ -1,0 +1,408 @@
+Start testing: May 05 15:38 MSK
+----------------------------------------------------------
+1/15 Testing: ArgParserTestSuite.EmptyTest
+1/15 Test: ArgParserTestSuite.EmptyTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.EmptyTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.EmptyTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.EmptyTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.EmptyTest
+[       OK ] ArgParserTestSuite.EmptyTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.EmptyTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.EmptyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/15 Testing: ArgParserTestSuite.StringTest
+2/15 Test: ArgParserTestSuite.StringTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.StringTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.StringTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.StringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.StringTest
+[       OK ] ArgParserTestSuite.StringTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.StringTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.StringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/15 Testing: ArgParserTestSuite.ShortNameTest
+3/15 Test: ArgParserTestSuite.ShortNameTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.ShortNameTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.ShortNameTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.ShortNameTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.ShortNameTest
+[       OK ] ArgParserTestSuite.ShortNameTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.ShortNameTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.ShortNameTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/15 Testing: ArgParserTestSuite.DefaultTest
+4/15 Test: ArgParserTestSuite.DefaultTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.DefaultTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.DefaultTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.DefaultTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.DefaultTest
+[       OK ] ArgParserTestSuite.DefaultTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.DefaultTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.DefaultTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/15 Testing: ArgParserTestSuite.NoDefaultTest
+5/15 Test: ArgParserTestSuite.NoDefaultTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.NoDefaultTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.NoDefaultTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.NoDefaultTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.NoDefaultTest
+[       OK ] ArgParserTestSuite.NoDefaultTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.NoDefaultTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.NoDefaultTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/15 Testing: ArgParserTestSuite.StoreValueTest
+6/15 Test: ArgParserTestSuite.StoreValueTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.StoreValueTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.StoreValueTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.StoreValueTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.StoreValueTest
+[       OK ] ArgParserTestSuite.StoreValueTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.StoreValueTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.StoreValueTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/15 Testing: ArgParserTestSuite.MultiStringTest
+7/15 Test: ArgParserTestSuite.MultiStringTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.MultiStringTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.MultiStringTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.MultiStringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.MultiStringTest
+[       OK ] ArgParserTestSuite.MultiStringTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.MultiStringTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.MultiStringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/15 Testing: ArgParserTestSuite.IntTest
+8/15 Test: ArgParserTestSuite.IntTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.IntTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.IntTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.IntTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.IntTest
+[       OK ] ArgParserTestSuite.IntTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.IntTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.IntTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/15 Testing: ArgParserTestSuite.MultiValueTest
+9/15 Test: ArgParserTestSuite.MultiValueTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.MultiValueTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.MultiValueTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.MultiValueTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.MultiValueTest
+[       OK ] ArgParserTestSuite.MultiValueTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.MultiValueTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.MultiValueTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/15 Testing: ArgParserTestSuite.MinCountMultiValueTest
+10/15 Test: ArgParserTestSuite.MinCountMultiValueTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.MinCountMultiValueTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.MinCountMultiValueTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.MinCountMultiValueTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.MinCountMultiValueTest
+[       OK ] ArgParserTestSuite.MinCountMultiValueTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.MinCountMultiValueTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.MinCountMultiValueTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/15 Testing: ArgParserTestSuite.FlagTest
+11/15 Test: ArgParserTestSuite.FlagTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.FlagTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.FlagTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.FlagTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.FlagTest
+[       OK ] ArgParserTestSuite.FlagTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.FlagTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.FlagTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/15 Testing: ArgParserTestSuite.FlagsTest
+12/15 Test: ArgParserTestSuite.FlagsTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.FlagsTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.FlagsTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.FlagsTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.FlagsTest
+[       OK ] ArgParserTestSuite.FlagsTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.FlagsTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.FlagsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/15 Testing: ArgParserTestSuite.PositionalArgTest
+13/15 Test: ArgParserTestSuite.PositionalArgTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.PositionalArgTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.PositionalArgTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.PositionalArgTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.PositionalArgTest
+[       OK ] ArgParserTestSuite.PositionalArgTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.PositionalArgTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.PositionalArgTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/15 Testing: ArgParserTestSuite.HelpTest
+14/15 Test: ArgParserTestSuite.HelpTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.HelpTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.HelpTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.HelpTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.HelpTest
+[       OK ] ArgParserTestSuite.HelpTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.HelpTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.HelpTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/15 Testing: ArgParserTestSuite.HelpStringTest
+15/15 Test: ArgParserTestSuite.HelpStringTest
+Command: "/home/yaroslav/pizh2312_petrischev/labwork5/build/tests/argparser_tests" "--gtest_filter=ArgParserTestSuite.HelpStringTest" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork5/build/tests
+"ArgParserTestSuite.HelpStringTest" start time: May 05 15:38 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/yaroslav/pizh2312_petrischev/labwork5/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArgParserTestSuite.HelpStringTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArgParserTestSuite
+[ RUN      ] ArgParserTestSuite.HelpStringTest
+[       OK ] ArgParserTestSuite.HelpStringTest (0 ms)
+[----------] 1 test from ArgParserTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArgParserTestSuite.HelpStringTest" end time: May 05 15:38 MSK
+"ArgParserTestSuite.HelpStringTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 05 15:38 MSK
