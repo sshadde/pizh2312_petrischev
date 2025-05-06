@@ -1,10 +1,10 @@
-Start testing: May 06 18:44 MSK
+Start testing: May 06 18:45 MSK
 ----------------------------------------------------------
 1/80 Testing: ParserTestSuite.EmptyTest
 1/80 Test: ParserTestSuite.EmptyTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.EmptyTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.EmptyTest" start time: May 06 18:44 MSK
+"ParserTestSuite.EmptyTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -23,7 +23,7 @@ Note: Google Test filter = ParserTestSuite.EmptyTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.EmptyTest" end time: May 06 18:44 MSK
+"ParserTestSuite.EmptyTest" end time: May 06 18:45 MSK
 "ParserTestSuite.EmptyTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/80 Test: ParserTestSuite.IntTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.IntTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.IntTest" start time: May 06 18:44 MSK
+"ParserTestSuite.IntTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -50,7 +50,7 @@ Note: Google Test filter = ParserTestSuite.IntTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.IntTest" end time: May 06 18:44 MSK
+"ParserTestSuite.IntTest" end time: May 06 18:45 MSK
 "ParserTestSuite.IntTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/80 Test: ParserTestSuite.InvalidIntTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.InvalidIntTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.InvalidIntTest" start time: May 06 18:44 MSK
+"ParserTestSuite.InvalidIntTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -77,7 +77,7 @@ Note: Google Test filter = ParserTestSuite.InvalidIntTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.InvalidIntTest" end time: May 06 18:44 MSK
+"ParserTestSuite.InvalidIntTest" end time: May 06 18:45 MSK
 "ParserTestSuite.InvalidIntTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/80 Test: ParserTestSuite.FloatTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.FloatTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.FloatTest" start time: May 06 18:44 MSK
+"ParserTestSuite.FloatTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -104,7 +104,7 @@ Note: Google Test filter = ParserTestSuite.FloatTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.FloatTest" end time: May 06 18:44 MSK
+"ParserTestSuite.FloatTest" end time: May 06 18:45 MSK
 "ParserTestSuite.FloatTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/80 Test: ParserTestSuite.InvalidFloatTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.InvalidFloatTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.InvalidFloatTest" start time: May 06 18:44 MSK
+"ParserTestSuite.InvalidFloatTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -131,7 +131,7 @@ Note: Google Test filter = ParserTestSuite.InvalidFloatTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.InvalidFloatTest" end time: May 06 18:44 MSK
+"ParserTestSuite.InvalidFloatTest" end time: May 06 18:45 MSK
 "ParserTestSuite.InvalidFloatTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,7 +139,7 @@ Test Passed.
 6/80 Test: ParserTestSuite.StringTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.StringTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.StringTest" start time: May 06 18:44 MSK
+"ParserTestSuite.StringTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -158,7 +158,7 @@ Note: Google Test filter = ParserTestSuite.StringTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.StringTest" end time: May 06 18:44 MSK
+"ParserTestSuite.StringTest" end time: May 06 18:45 MSK
 "ParserTestSuite.StringTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -166,7 +166,7 @@ Test Passed.
 7/80 Test: ParserTestSuite.InvalidStringTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.InvalidStringTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.InvalidStringTest" start time: May 06 18:44 MSK
+"ParserTestSuite.InvalidStringTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -185,7 +185,7 @@ Note: Google Test filter = ParserTestSuite.InvalidStringTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.InvalidStringTest" end time: May 06 18:44 MSK
+"ParserTestSuite.InvalidStringTest" end time: May 06 18:45 MSK
 "ParserTestSuite.InvalidStringTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -193,7 +193,7 @@ Test Passed.
 8/80 Test: ParserTestSuite.ArrayTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.ArrayTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.ArrayTest" start time: May 06 18:44 MSK
+"ParserTestSuite.ArrayTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -212,7 +212,7 @@ Note: Google Test filter = ParserTestSuite.ArrayTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.ArrayTest" end time: May 06 18:44 MSK
+"ParserTestSuite.ArrayTest" end time: May 06 18:45 MSK
 "ParserTestSuite.ArrayTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -220,7 +220,7 @@ Test Passed.
 9/80 Test: ParserTestSuite.DiffTypesArrayTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.DiffTypesArrayTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.DiffTypesArrayTest" start time: May 06 18:44 MSK
+"ParserTestSuite.DiffTypesArrayTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -239,7 +239,7 @@ Note: Google Test filter = ParserTestSuite.DiffTypesArrayTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.DiffTypesArrayTest" end time: May 06 18:44 MSK
+"ParserTestSuite.DiffTypesArrayTest" end time: May 06 18:45 MSK
 "ParserTestSuite.DiffTypesArrayTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -247,7 +247,7 @@ Test Passed.
 10/80 Test: ParserTestSuite.CommentsTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.CommentsTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.CommentsTest" start time: May 06 18:44 MSK
+"ParserTestSuite.CommentsTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -266,7 +266,7 @@ Note: Google Test filter = ParserTestSuite.CommentsTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.CommentsTest" end time: May 06 18:44 MSK
+"ParserTestSuite.CommentsTest" end time: May 06 18:45 MSK
 "ParserTestSuite.CommentsTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,7 +274,7 @@ Test Passed.
 11/80 Test: ParserTestSuite.SectionTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.SectionTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.SectionTest" start time: May 06 18:44 MSK
+"ParserTestSuite.SectionTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -293,7 +293,7 @@ Note: Google Test filter = ParserTestSuite.SectionTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.SectionTest" end time: May 06 18:44 MSK
+"ParserTestSuite.SectionTest" end time: May 06 18:45 MSK
 "ParserTestSuite.SectionTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -301,7 +301,7 @@ Test Passed.
 12/80 Test: ParserTestSuite.MultiSectionTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.MultiSectionTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.MultiSectionTest" start time: May 06 18:44 MSK
+"ParserTestSuite.MultiSectionTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -310,17 +310,17 @@ Note: Google Test filter = ParserTestSuite.MultiSectionTest
 [----------] Global test environment set-up.
 [----------] 1 test from ParserTestSuite
 [ RUN      ] ParserTestSuite.MultiSectionTest
-[       OK ] ParserTestSuite.MultiSectionTest (1 ms)
-[----------] 1 test from ParserTestSuite (1 ms total)
+[       OK ] ParserTestSuite.MultiSectionTest (0 ms)
+[----------] 1 test from ParserTestSuite (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (1 ms total)
+[==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.MultiSectionTest" end time: May 06 18:44 MSK
+"ParserTestSuite.MultiSectionTest" end time: May 06 18:45 MSK
 "ParserTestSuite.MultiSectionTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -328,7 +328,7 @@ Test Passed.
 13/80 Test: ParserTestSuite.GetSectionTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ParserTestSuite.GetSectionTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ParserTestSuite.GetSectionTest" start time: May 06 18:44 MSK
+"ParserTestSuite.GetSectionTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -347,7 +347,7 @@ Note: Google Test filter = ParserTestSuite.GetSectionTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ParserTestSuite.GetSectionTest" end time: May 06 18:44 MSK
+"ParserTestSuite.GetSectionTest" end time: May 06 18:45 MSK
 "ParserTestSuite.GetSectionTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -355,7 +355,7 @@ Test Passed.
 14/80 Test: FormatTestSuite.KeyRedifenitionTest
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FormatTestSuite.KeyRedifenitionTest" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FormatTestSuite.KeyRedifenitionTest" start time: May 06 18:44 MSK
+"FormatTestSuite.KeyRedifenitionTest" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -374,7 +374,7 @@ Note: Google Test filter = FormatTestSuite.KeyRedifenitionTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FormatTestSuite.KeyRedifenitionTest" end time: May 06 18:44 MSK
+"FormatTestSuite.KeyRedifenitionTest" end time: May 06 18:45 MSK
 "FormatTestSuite.KeyRedifenitionTest" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -382,7 +382,7 @@ Test Passed.
 15/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -401,7 +401,7 @@ Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -409,7 +409,7 @@ Test Passed.
 16/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" start time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -428,7 +428,7 @@ Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/1
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" end time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" end time: May 06 18:45 MSK
 "KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   "" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -436,7 +436,7 @@ Test Passed.
 17/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -455,7 +455,7 @@ Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -463,7 +463,7 @@ Test Passed.
 18/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -482,7 +482,7 @@ Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/3
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -490,7 +490,7 @@ Test Passed.
 19/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/4" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -509,7 +509,7 @@ Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/4
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -517,7 +517,7 @@ Test Passed.
 20/80 Test: KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/ValidFormatTestSuite.ValidTest/5" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -536,7 +536,7 @@ Note: Google Test filter = KeyValidation/ValidFormatTestSuite.ValidTest/5
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -544,7 +544,7 @@ Test Passed.
 21/80 Test: ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: May 06 18:44 MSK
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -563,7 +563,7 @@ Note: Google Test filter = ValueValidation/ValidFormatTestSuite.ValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: May 06 18:44 MSK
+"ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" end time: May 06 18:45 MSK
 "ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -571,7 +571,7 @@ Test Passed.
 22/80 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" start time: May 06 18:44 MSK
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -590,7 +590,7 @@ Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" end time: May 06 18:44 MSK
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" end time: May 06 18:45 MSK
 "IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -598,7 +598,7 @@ Test Passed.
 23/80 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" start time: May 06 18:44 MSK
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -617,7 +617,7 @@ Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/1
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" end time: May 06 18:44 MSK
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" end time: May 06 18:45 MSK
 "IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -625,7 +625,7 @@ Test Passed.
 24/80 Test: IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=IntValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" start time: May 06 18:44 MSK
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -644,7 +644,7 @@ Note: Google Test filter = IntValueValidation/ValidFormatTestSuite.ValidTest/2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" end time: May 06 18:44 MSK
+"IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" end time: May 06 18:45 MSK
 "IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -652,7 +652,7 @@ Test Passed.
 25/80 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" start time: May 06 18:44 MSK
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -671,7 +671,7 @@ Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" end time: May 06 18:44 MSK
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" end time: May 06 18:45 MSK
 "FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -679,7 +679,7 @@ Test Passed.
 26/80 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" start time: May 06 18:44 MSK
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -698,7 +698,7 @@ Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/1
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" end time: May 06 18:44 MSK
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" end time: May 06 18:45 MSK
 "FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -706,7 +706,7 @@ Test Passed.
 27/80 Test: FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" start time: May 06 18:44 MSK
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -725,7 +725,7 @@ Note: Google Test filter = FloatValueValidation/ValidFormatTestSuite.ValidTest/2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" end time: May 06 18:44 MSK
+"FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" end time: May 06 18:45 MSK
 "FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -733,7 +733,7 @@ Test Passed.
 28/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" start time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -752,7 +752,7 @@ Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" end time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" end time: May 06 18:45 MSK
 "StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -760,7 +760,7 @@ Test Passed.
 29/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" start time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -779,7 +779,7 @@ Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" end time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" end time: May 06 18:45 MSK
 "StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -787,7 +787,7 @@ Test Passed.
 30/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" start time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -806,7 +806,7 @@ Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" end time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" end time: May 06 18:45 MSK
 "StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -814,7 +814,7 @@ Test Passed.
 31/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" start time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -833,7 +833,7 @@ Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" end time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" end time: May 06 18:45 MSK
 "StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -841,7 +841,7 @@ Test Passed.
 32/80 Test: StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/ValidFormatTestSuite.ValidTest/4" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" start time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -860,7 +860,7 @@ Note: Google Test filter = StringValueValidation/ValidFormatTestSuite.ValidTest/
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" end time: May 06 18:44 MSK
+"StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" end time: May 06 18:45 MSK
 "StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -868,7 +868,7 @@ Test Passed.
 33/80 Test: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=BoolValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" start time: May 06 18:44 MSK
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -887,7 +887,7 @@ Note: Google Test filter = BoolValueValidation/ValidFormatTestSuite.ValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" end time: May 06 18:44 MSK
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" end time: May 06 18:45 MSK
 "BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -895,7 +895,7 @@ Test Passed.
 34/80 Test: BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=BoolValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" start time: May 06 18:44 MSK
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -914,7 +914,7 @@ Note: Google Test filter = BoolValueValidation/ValidFormatTestSuite.ValidTest/1
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" end time: May 06 18:44 MSK
+"BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" end time: May 06 18:45 MSK
 "BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -922,7 +922,7 @@ Test Passed.
 35/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" start time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -941,7 +941,7 @@ Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" end time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" end time: May 06 18:45 MSK
 "ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -949,7 +949,7 @@ Test Passed.
 36/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" start time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -968,7 +968,7 @@ Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/1
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" end time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" end time: May 06 18:45 MSK
 "ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -976,7 +976,7 @@ Test Passed.
 37/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" start time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -995,7 +995,7 @@ Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" end time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" end time: May 06 18:45 MSK
 "ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1003,7 +1003,7 @@ Test Passed.
 38/80 Test: ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/ValidFormatTestSuite.ValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" start time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1022,7 +1022,7 @@ Note: Google Test filter = ArrayValueValidation/ValidFormatTestSuite.ValidTest/3
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" end time: May 06 18:44 MSK
+"ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" end time: May 06 18:45 MSK
 "ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1030,7 +1030,7 @@ Test Passed.
 39/80 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" start time: May 06 18:44 MSK
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1049,7 +1049,7 @@ Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" end time: May 06 18:44 MSK
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" end time: May 06 18:45 MSK
 "SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1057,7 +1057,7 @@ Test Passed.
 40/80 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" start time: May 06 18:44 MSK
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1076,7 +1076,7 @@ Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" end time: May 06 18:44 MSK
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" end time: May 06 18:45 MSK
 "SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1084,7 +1084,7 @@ Test Passed.
 41/80 Test: SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=SectionValueValidation/ValidFormatTestSuite.ValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" start time: May 06 18:44 MSK
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1103,7 +1103,7 @@ Note: Google Test filter = SectionValueValidation/ValidFormatTestSuite.ValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" end time: May 06 18:44 MSK
+"SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" end time: May 06 18:45 MSK
 "SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1111,7 +1111,7 @@ Test Passed.
 42/80 Test: CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=CommentValueValidation/ValidFormatTestSuite.ValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" start time: May 06 18:44 MSK
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1130,7 +1130,7 @@ Note: Google Test filter = CommentValueValidation/ValidFormatTestSuite.ValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" end time: May 06 18:44 MSK
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" end time: May 06 18:45 MSK
 "CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1138,7 +1138,7 @@ Test Passed.
 43/80 Test: CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=CommentValueValidation/ValidFormatTestSuite.ValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" start time: May 06 18:44 MSK
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1157,7 +1157,7 @@ Note: Google Test filter = CommentValueValidation/ValidFormatTestSuite.ValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" end time: May 06 18:44 MSK
+"CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" end time: May 06 18:45 MSK
 "CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1165,7 +1165,7 @@ Test Passed.
 44/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1184,7 +1184,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1192,7 +1192,7 @@ Test Passed.
 45/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1211,7 +1211,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/1
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1219,7 +1219,7 @@ Test Passed.
 46/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1238,7 +1238,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/2
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   "" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1246,7 +1246,7 @@ Test Passed.
 47/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1265,7 +1265,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/3
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1273,7 +1273,7 @@ Test Passed.
 48/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1292,7 +1292,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/4
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1300,7 +1300,7 @@ Test Passed.
 49/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/5" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1319,7 +1319,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/5
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1327,7 +1327,7 @@ Test Passed.
 50/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/6" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1346,7 +1346,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/6
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1354,7 +1354,7 @@ Test Passed.
 51/80 Test: KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=KeyValidation/InvalidFormatTestSuite.InValidTest/7" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" start time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1373,7 +1373,7 @@ Note: Google Test filter = KeyValidation/InvalidFormatTestSuite.InValidTest/7
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" end time: May 06 18:44 MSK
+"KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" end time: May 06 18:45 MSK
 "KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1381,7 +1381,7 @@ Test Passed.
 52/80 Test: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" start time: May 06 18:44 MSK
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1400,7 +1400,7 @@ Note: Google Test filter = ValueValidation/InvalidFormatTestSuite.InValidTest/0
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" end time: May 06 18:44 MSK
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" end time: May 06 18:45 MSK
 "ValueValidation/InvalidFormatTestSuite.InValidTest/"key = "" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1408,7 +1408,7 @@ Test Passed.
 53/80 Test: ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" start time: May 06 18:44 MSK
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1427,7 +1427,7 @@ Note: Google Test filter = ValueValidation/InvalidFormatTestSuite.InValidTest/1
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" end time: May 06 18:44 MSK
+"ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" end time: May 06 18:45 MSK
 "ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1435,7 +1435,7 @@ Test Passed.
 54/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" start time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1448,13 +1448,13 @@ Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest
 [----------] 1 test from IntValueValidation/InvalidFormatTestSuite (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (0 ms total)
+[==========] 1 test from 1 test suite ran. (1 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" end time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" end time: May 06 18:45 MSK
 "IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1462,7 +1462,7 @@ Test Passed.
 55/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" start time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1481,7 +1481,7 @@ Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" end time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" end time: May 06 18:45 MSK
 "IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1489,7 +1489,7 @@ Test Passed.
 56/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" start time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1508,7 +1508,7 @@ Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" end time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" end time: May 06 18:45 MSK
 "IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1516,7 +1516,7 @@ Test Passed.
 57/80 Test: IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=IntValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" start time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1535,7 +1535,7 @@ Note: Google Test filter = IntValueValidation/InvalidFormatTestSuite.InValidTest
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" end time: May 06 18:44 MSK
+"IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" end time: May 06 18:45 MSK
 "IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1543,7 +1543,7 @@ Test Passed.
 58/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" start time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1562,7 +1562,7 @@ Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" end time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" end time: May 06 18:45 MSK
 "FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1570,7 +1570,7 @@ Test Passed.
 59/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" start time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1589,7 +1589,7 @@ Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" end time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" end time: May 06 18:45 MSK
 "FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1."" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1597,7 +1597,7 @@ Test Passed.
 60/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" start time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1616,7 +1616,7 @@ Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" end time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" end time: May 06 18:45 MSK
 "FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1624,7 +1624,7 @@ Test Passed.
 61/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" start time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1633,17 +1633,17 @@ Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTe
 [----------] Global test environment set-up.
 [----------] 1 test from FloatValueValidation/InvalidFormatTestSuite
 [ RUN      ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/3
-[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/3 (0 ms)
-[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (0 ms total)
+[       OK ] FloatValueValidation/InvalidFormatTestSuite.InValidTest/3 (1 ms)
+[----------] 1 test from FloatValueValidation/InvalidFormatTestSuite (1 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (0 ms total)
+[==========] 1 test from 1 test suite ran. (1 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" end time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" end time: May 06 18:45 MSK
 "FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +."" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1651,7 +1651,7 @@ Test Passed.
 62/80 Test: FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=FloatValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" start time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1670,7 +1670,7 @@ Note: Google Test filter = FloatValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" end time: May 06 18:44 MSK
+"FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" end time: May 06 18:45 MSK
 "FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ."" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1678,7 +1678,7 @@ Test Passed.
 63/80 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" start time: May 06 18:44 MSK
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1697,7 +1697,7 @@ Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidT
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" end time: May 06 18:44 MSK
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" end time: May 06 18:45 MSK
 "StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1705,7 +1705,7 @@ Test Passed.
 64/80 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" start time: May 06 18:44 MSK
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1724,7 +1724,7 @@ Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidT
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" end time: May 06 18:44 MSK
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" end time: May 06 18:45 MSK
 "StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1732,7 +1732,7 @@ Test Passed.
 65/80 Test: StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=StringValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" start time: May 06 18:44 MSK
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1751,7 +1751,7 @@ Note: Google Test filter = StringValueValidation/InvalidFormatTestSuite.InValidT
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" end time: May 06 18:44 MSK
+"StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" end time: May 06 18:45 MSK
 "StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\""" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1759,7 +1759,7 @@ Test Passed.
 66/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" start time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1778,7 +1778,7 @@ Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTes
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" end time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" end time: May 06 18:45 MSK
 "BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1786,7 +1786,7 @@ Test Passed.
 67/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" start time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1805,7 +1805,7 @@ Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTes
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" end time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" end time: May 06 18:45 MSK
 "BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1813,7 +1813,7 @@ Test Passed.
 68/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" start time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1832,7 +1832,7 @@ Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTes
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" end time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" end time: May 06 18:45 MSK
 "BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1840,7 +1840,7 @@ Test Passed.
 69/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" start time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1859,7 +1859,7 @@ Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTes
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" end time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" end time: May 06 18:45 MSK
 "BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1867,7 +1867,7 @@ Test Passed.
 70/80 Test: BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=BoolValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" start time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1886,7 +1886,7 @@ Note: Google Test filter = BoolValueValidation/InvalidFormatTestSuite.InValidTes
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" end time: May 06 18:44 MSK
+"BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" end time: May 06 18:45 MSK
 "BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1894,7 +1894,7 @@ Test Passed.
 71/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" start time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1913,7 +1913,7 @@ Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" end time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" end time: May 06 18:45 MSK
 "ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = ["" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1921,7 +1921,7 @@ Test Passed.
 72/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" start time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1940,7 +1940,7 @@ Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" end time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" end time: May 06 18:45 MSK
 "ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1948,7 +1948,7 @@ Test Passed.
 73/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" start time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1957,17 +1957,17 @@ Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTe
 [----------] Global test environment set-up.
 [----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite
 [ RUN      ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2
-[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2 (0 ms)
-[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (0 ms total)
+[       OK ] ArrayValueValidation/InvalidFormatTestSuite.InValidTest/2 (1 ms)
+[----------] 1 test from ArrayValueValidation/InvalidFormatTestSuite (1 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (0 ms total)
+[==========] 1 test from 1 test suite ran. (1 ms total)
 [  PASSED  ] 1 test.
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" end time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" end time: May 06 18:45 MSK
 "ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -1975,7 +1975,7 @@ Test Passed.
 74/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" start time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -1994,7 +1994,7 @@ Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" end time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" end time: May 06 18:45 MSK
 "ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2002,7 +2002,7 @@ Test Passed.
 75/80 Test: ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=ArrayValueValidation/InvalidFormatTestSuite.InValidTest/4" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" start time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -2021,7 +2021,7 @@ Note: Google Test filter = ArrayValueValidation/InvalidFormatTestSuite.InValidTe
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" end time: May 06 18:44 MSK
+"ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" end time: May 06 18:45 MSK
 "ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2029,7 +2029,7 @@ Test Passed.
 76/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" start time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -2048,7 +2048,7 @@ Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValid
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" end time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" end time: May 06 18:45 MSK
 "SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2056,7 +2056,7 @@ Test Passed.
 77/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/1" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" start time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -2075,7 +2075,7 @@ Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValid
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" end time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" end time: May 06 18:45 MSK
 "SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2083,7 +2083,7 @@ Test Passed.
 78/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/2" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" start time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -2102,7 +2102,7 @@ Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValid
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" end time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" end time: May 06 18:45 MSK
 "SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2110,7 +2110,7 @@ Test Passed.
 79/80 Test: SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=SectionValueValidation/InvalidFormatTestSuite.InValidTest/3" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" start time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -2129,7 +2129,7 @@ Note: Google Test filter = SectionValueValidation/InvalidFormatTestSuite.InValid
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" end time: May 06 18:44 MSK
+"SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" end time: May 06 18:45 MSK
 "SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -2137,7 +2137,7 @@ Test Passed.
 80/80 Test: CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"
 Command: "/home/yaroslav/pizh2312_petrischev/labwork6/build/tests/parser_tests" "--gtest_filter=CommentValueValidation/InvalidFormatTestSuite.InValidTest/0" "--gtest_also_run_disabled_tests"
 Directory: /home/yaroslav/pizh2312_petrischev/labwork6/build/tests
-"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" start time: May 06 18:44 MSK
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" start time: May 06 18:45 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/yaroslav/pizh2312_petrischev/labwork6/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -2156,8 +2156,8 @@ Note: Google Test filter = CommentValueValidation/InvalidFormatTestSuite.InValid
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" end time: May 06 18:44 MSK
+"CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" end time: May 06 18:45 MSK
 "CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment"" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: May 06 18:44 MSK
+End testing: May 06 18:45 MSK

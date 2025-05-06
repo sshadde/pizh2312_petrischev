@@ -1,81 +1,140 @@
-ParserTestSuite.EmptyTest 1 0.00287768
-ParserTestSuite.IntTest 1 0.00341333
-ParserTestSuite.InvalidIntTest 1 0.00273181
-ParserTestSuite.FloatTest 1 0.00401984
-ParserTestSuite.InvalidFloatTest 1 0.00311418
-ParserTestSuite.StringTest 1 0.00277098
-ParserTestSuite.InvalidStringTest 1 0.00246509
-ParserTestSuite.ArrayTest 1 0.0031679
-ParserTestSuite.DiffTypesArrayTest 1 0.00309234
-ParserTestSuite.CommentsTest 1 0.00400283
-ParserTestSuite.SectionTest 1 0.00339569
-ParserTestSuite.MultiSectionTest 1 0.00395035
-ParserTestSuite.GetSectionTest 1 0.00286234
-FormatTestSuite.KeyRedifenitionTest 1 0.00331069
-KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\"" 1 0.00242664
-KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   " 1 0.00258848
-KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\"" 1 0.0026372
-KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\"" 1 0.00279543
-KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\"" 1 0.00274566
-KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\"" 1 0.00260371
-ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\"" 1 0.00273234
-IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2" 1 0.00309376
-IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22" 1 0.0037015
-IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48" 1 0.0043107
-FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14" 1 0.00342542
-FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14" 1 0.00281091
-FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001" 1 0.00329796
-StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\"" 1 0.00247636
-StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\"" 1 0.00256064
-StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\"" 1 0.00266745
-StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\"" 1 0.00268971
-StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\"" 1 0.00229673
-BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true" 1 0.00260386
-BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false" 1 0.00262412
-ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []" 1 0.00260834
-ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]" 1 0.00309914
-ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]" 1 0.00348499
-ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]" 1 0.00364712
-SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]" 1 0.00274006
-SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]" 1 0.00276991
-SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]" 1 0.00270718
-CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment" 1 0.00299221
-CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text" 1 0.00326402
-KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\"" 1 0.0034351
-KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\"" 1 0.00264793
-KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   " 1 0.00325753
-KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\"" 1 0.0025016
-KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\"" 1 0.0028247
-KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\"" 1 0.00253213
-KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\"" 1 0.00297971
-KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\"" 1 0.00318627
-ValueValidation/InvalidFormatTestSuite.InValidTest/"key = " 1 0.00298622
-ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd" 1 0.00340089
-IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+" 1 0.00339908
-IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2" 1 0.00284548
-IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8" 1 0.00325602
-IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +" 1 0.00308444
-FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0" 1 0.00301999
-FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1." 1 0.00298864
-FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1" 1 0.00371901
-FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +." 1 0.00380844
-FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ." 1 0.00333879
-StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world" 1 0.0037161
-StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\"" 1 0.00265631
-StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\"" 1 0.00272071
-BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru" 1 0.003069
-BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse" 1 0.00376864
-BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true" 1 0.00370599
-BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se" 1 0.00390107
-BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse" 1 0.00294048
-ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = [" 1 0.00330212
-ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]" 1 0.00375559
-ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]" 1 0.0030046
-ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4" 1 0.00347977
-ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]" 1 0.00321559
-SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]" 1 0.00274413
-SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}" 1 0.00241316
-SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]" 1 0.00246842
-SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]" 1 0.00246696
-CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment" 1 0.00277519
+ParserTestSuite.EmptyTest 2 0.00162723
+ParserTestSuite.IntTest 2 0.00182482
+ParserTestSuite.InvalidIntTest 2 0.00190735
+ParserTestSuite.FloatTest 2 0.00140077
+ParserTestSuite.InvalidFloatTest 2 0.00193789
+ParserTestSuite.StringTest 2 0.00170541
+ParserTestSuite.InvalidStringTest 2 0.00161762
+ParserTestSuite.ArrayTest 2 0.00161733
+ParserTestSuite.DiffTypesArrayTest 2 0.00151774
+ParserTestSuite.CommentsTest 2 0.00210338
+ParserTestSuite.SectionTest 2 0.00145857
+ParserTestSuite.MultiSectionTest 2 0.00183741
+ParserTestSuite.GetSectionTest 2 0.00157346
+FormatTestSuite.KeyRedifenitionTest 2 0.00163932
+KeyValidation/ValidFormatTestSuite.ValidTest/"key 0 0
+KeyValidation/ValidFormatTestSuite.ValidTest/" 0 0
+KeyValidation/ValidFormatTestSuite.ValidTest/" 0 0
+KeyValidation/ValidFormatTestSuite.ValidTest/" 0 0
+KeyValidation/ValidFormatTestSuite.ValidTest/" 0 0
+KeyValidation/ValidFormatTestSuite.ValidTest/" 23 0
+ValueValidation/ValidFormatTestSuite.ValidTest/"key 0 0
+IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 0 2
+IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 0 -22
+IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 0 48
+FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 0 3.14
+FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 0 -3.14
+FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 0 1e-05
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 0 0
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 0 0
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 0 0
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 0 0
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 0 0
+BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 0 0
+BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 0 0
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 0 0
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 0 0
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 0 0
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 0 0
+SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1]" 2 0.00149352
+SectionValueValidation/ValidFormatTestSuite.ValidTest/"[section-1.section-2]" 2 0.00142357
+SectionValueValidation/ValidFormatTestSuite.ValidTest/"[a.b.c.d]" 2 0.00170559
+CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 0 1
+CommentValueValidation/ValidFormatTestSuite.ValidTest/"# 0 0
+KeyValidation/InvalidFormatTestSuite.InValidTest/"!key 0 0
+KeyValidation/InvalidFormatTestSuite.InValidTest/"key 0 0
+KeyValidation/InvalidFormatTestSuite.InValidTest/" 0 0
+KeyValidation/InvalidFormatTestSuite.InValidTest/"= 0 1
+KeyValidation/InvalidFormatTestSuite.InValidTest/" 0 0
+KeyValidation/InvalidFormatTestSuite.InValidTest/" 0 0
+KeyValidation/InvalidFormatTestSuite.InValidTest/" 0 0
+KeyValidation/InvalidFormatTestSuite.InValidTest/" 0 0
+ValueValidation/InvalidFormatTestSuite.InValidTest/"key 0 0
+ValueValidation/InvalidFormatTestSuite.InValidTest/"key 0 0
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 0 2
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 0 2
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 0 4
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 0 0
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 0 0
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 0 1
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 0 0.1
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 0 0
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 0 0
+StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 0 0
+StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 0 0
+StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 0 0
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 0 0
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 0 0
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 0 0
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 0 0
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 0 0
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 0 0
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 0 0
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 0 0
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 0 0
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 0 0
+SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[]" 2 0.00117458
+SectionValueValidation/InvalidFormatTestSuite.InValidTest/"{section-1}" 2 0.00139194
+SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[section-1.]" 2 0.00150917
+SectionValueValidation/InvalidFormatTestSuite.InValidTest/"[.section-1]" 2 0.0020788
+CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# 0 0
+KeyValidation/ValidFormatTestSuite.ValidTest/"key = \"value\"" 1 0.00258722
+KeyValidation/ValidFormatTestSuite.ValidTest/" key      =  \"value\"   " 1 0.00292033
+KeyValidation/ValidFormatTestSuite.ValidTest/" key=  \"value\"" 1 0.00255639
+KeyValidation/ValidFormatTestSuite.ValidTest/" key123 =  \"value\"" 1 0.00291953
+KeyValidation/ValidFormatTestSuite.ValidTest/" key_1-23-abcd =  \"value\"" 1 0.00274889
+KeyValidation/ValidFormatTestSuite.ValidTest/" 23key_ =  \"value\"" 1 0.00259913
+ValueValidation/ValidFormatTestSuite.ValidTest/"key = \"value\"" 1 0.00271312
+IntValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 2" 1 0.00313361
+IntValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -22" 1 0.00285771
+IntValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +48" 1 0.00280651
+FloatValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 3.14" 1 0.00305945
+FloatValueValidation/ValidFormatTestSuite.ValidTest/"key2 = -3.14" 1 0.00398052
+FloatValueValidation/ValidFormatTestSuite.ValidTest/"key3 = +0.00001" 1 0.00295324
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key1 = \"Hello world\"" 1 0.00309111
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key2 = \"1, 2, 3, 4, 5\"" 1 0.00268241
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key3 = \"3.14\"" 1 0.00241578
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key4 = \"1\t2\t3\"" 1 0.00247876
+StringValueValidation/ValidFormatTestSuite.ValidTest/"key5 = \"[1,2,3,4,5]\"" 1 0.00257651
+BoolValueValidation/ValidFormatTestSuite.ValidTest/"key1 = true" 1 0.00237581
+BoolValueValidation/ValidFormatTestSuite.ValidTest/"key2 = false" 1 0.00229003
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key1 = []" 1 0.0033638
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key2 = [1,2,3,4,5]" 1 0.00374306
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key3 = [1, -3.14, true, \"ITMO\"]" 1 0.00377647
+ArrayValueValidation/ValidFormatTestSuite.ValidTest/"key4 = [[1,2],[2,[3,4,5]]]" 1 0.00339524
+CommentValueValidation/ValidFormatTestSuite.ValidTest/"key1 = 1 # comment" 1 0.00375372
+CommentValueValidation/ValidFormatTestSuite.ValidTest/"# some text" 1 0.00222638
+KeyValidation/InvalidFormatTestSuite.InValidTest/"!key = \"value\"" 1 0.00365144
+KeyValidation/InvalidFormatTestSuite.InValidTest/"key = \n\"value\"" 1 0.00270679
+KeyValidation/InvalidFormatTestSuite.InValidTest/"      =  \"value\"   " 1 0.00276633
+KeyValidation/InvalidFormatTestSuite.InValidTest/"=  \"value\"" 1 0.00268209
+KeyValidation/InvalidFormatTestSuite.InValidTest/" key**123 =  \"value\"" 1 0.00271998
+KeyValidation/InvalidFormatTestSuite.InValidTest/" . =  \"value\"" 1 0.00256419
+KeyValidation/InvalidFormatTestSuite.InValidTest/" .key2.key3 =  \"value\"" 1 0.00245502
+KeyValidation/InvalidFormatTestSuite.InValidTest/" key1. =  \"value\"" 1 0.00232723
+ValueValidation/InvalidFormatTestSuite.InValidTest/"key = " 1 0.0029007
+ValueValidation/InvalidFormatTestSuite.InValidTest/"key = abcd" 1 0.00396237
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = 2+" 1 0.00475834
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 2-2" 1 0.00311838
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = 4+8" 1 0.00441761
+IntValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +" 1 0.00395707
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = .0" 1 0.00402617
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = 1." 1 0.00289141
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = +.1" 1 0.00322587
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = +." 1 0.00391013
+FloatValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = ." 1 0.0031325
+StringValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = \"Hello world" 1 0.00295062
+StringValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = \"ITMO\"University\"" 1 0.00309533
+StringValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = \"Bjarne\" \"stroustrup\"" 1 0.0031704
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = tru" 1 0.00294426
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = alse" 1 0.00322614
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = true true" 1 0.0026219
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = fal se" 1 0.00309987
+BoolValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = truefalse" 1 0.00281889
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key1 = [" 1 0.00290524
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key2 = ]" 1 0.00320037
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key3 = [1;2;3]" 1 0.00390363
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key4 = [1,2,3,4" 1 0.00301852
+ArrayValueValidation/InvalidFormatTestSuite.InValidTest/"key5 = [[1,2],[2,[3,4,5]" 1 0.00282373
+CommentValueValidation/InvalidFormatTestSuite.InValidTest/"# comment \n newline comment" 1 0.00301019
 ---
