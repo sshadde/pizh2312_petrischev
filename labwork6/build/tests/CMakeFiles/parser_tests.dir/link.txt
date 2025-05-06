@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic -Wl,--dependency-file=CMakeFiles/parser_tests.dir/link.d CMakeFiles/parser_tests.dir/test_parser.cpp.o CMakeFiles/parser_tests.dir/test_format.cpp.o -o parser_tests   -L/home/yaroslav/pizh2312_petrischev/labwork6/lib  -Wl,-rpath,/home/yaroslav/pizh2312_petrischev/labwork6/lib ../lib/libITMLparse.a ../lib/libgtest_main.a ../lib/libgtest.a

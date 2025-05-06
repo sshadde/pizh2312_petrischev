@@ -1,2 +1,0 @@
-/usr/bin/ar qc libITMLparse.a CMakeFiles/ITMLparse.dir/parser.cpp.o
-/usr/bin/ranlib libITMLparse.a
