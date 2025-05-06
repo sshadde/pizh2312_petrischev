@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/sandpile.dir/link.d CMakeFiles/sandpile.dir/main.cpp.o CMakeFiles/sandpile.dir/args_parser.cpp.o CMakeFiles/sandpile.dir/bmp_writer.cpp.o CMakeFiles/sandpile.dir/sandpile.cpp.o -o sandpile

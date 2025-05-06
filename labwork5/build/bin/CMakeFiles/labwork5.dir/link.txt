@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/labwork5.dir/link.d CMakeFiles/labwork5.dir/main.cpp.o -o labwork5  ../lib/libargparser.a

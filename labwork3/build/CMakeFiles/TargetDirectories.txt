@@ -1,5 +1,0 @@
-/home/yaroslav/pizh2312_petrischev/labwork3/build/CMakeFiles/edit_cache.dir
-/home/yaroslav/pizh2312_petrischev/labwork3/build/CMakeFiles/rebuild_cache.dir
-/home/yaroslav/pizh2312_petrischev/labwork3/build/src/CMakeFiles/sandpile.dir
-/home/yaroslav/pizh2312_petrischev/labwork3/build/src/CMakeFiles/edit_cache.dir
-/home/yaroslav/pizh2312_petrischev/labwork3/build/src/CMakeFiles/rebuild_cache.dir
