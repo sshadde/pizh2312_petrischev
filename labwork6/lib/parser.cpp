@@ -201,4 +201,75 @@ static Node parseValue(const std::string& tok, bool& ok) {
     return Node{};
 }
 
+Node parse(const std::filesystem::path& path) {
+    std::ifstream in(path);
+    std::ostringstream oss;
+    oss << in.rdbuf();
+    return parse(oss.str());
+}
+
+Node parse(const std::string& str) {
+    auto root    = std::make_shared<Section>();
+    auto current = root;
+
+    std::istringstream in(str);
+    std::string raw;
+    while (std::getline(in, raw)) {
+        auto line = trim(raw.substr(0, raw.find('#')));
+        if (line.empty()) continue;
+
+        if (line.front() == '[' && line.back() == ']') {
+            std::string name = trim(line.substr(1, line.size() - 2));
+
+            if (name.empty() || name.front() == '.' || name.back() == '.') {
+                root->valid = false;
+                break;
+            }
+            current = root;
+            std::istringstream ss(name);
+            std::string part;
+            while (std::getline(ss, part, '.')) {
+                if (!isValidKey(part)) {
+                    root->valid = false;
+                    break;
+                }
+                auto it = current->sections.find(part);
+                if (it == current->sections.end()) {
+                    auto child = std::make_shared<Section>();
+                    current->sections[part] = child;
+                    current = child;
+                } else {
+                    current = it->second;
+                }
+            }
+            continue;
+        }
+
+        auto eq = line.find('=');
+        if (eq == std::string::npos) {
+            root->valid = false;
+            break;
+        }
+        std::string key = trim(line.substr(0, eq));
+        std::string val = trim(line.substr(eq + 1));
+        if (key.empty() || !isValidKey(key)) {
+            root->valid = false;
+            break;
+        }
+        if (current->values.count(key) || current->sections.count(key)) {
+            root->valid = false;
+            break;
+        }
+        bool ok;
+        Node v = parseValue(val, ok);
+        if (!ok) {
+            root->valid = false;
+            break;
+        }
+        current->values.emplace(key, std::move(v));
+    }
+
+    return Node(root);
+}
+
 } // namespace omfl
