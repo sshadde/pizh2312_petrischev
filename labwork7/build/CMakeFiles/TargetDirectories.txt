@@ -1,0 +1,15 @@
+/home/yaroslav/pizh2312_petrischev/labwork7/build/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/lib/CMakeFiles/id3parser.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/lib/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/lib/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/lib/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/bin/CMakeFiles/id3parser_exec.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/bin/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/bin/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/bin/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/tests/CMakeFiles/ID3ParserTests.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/tests/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/tests/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork7/build/tests/CMakeFiles/rebuild_cache.dir

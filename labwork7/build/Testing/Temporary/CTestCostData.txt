@@ -1,0 +1,8 @@
+UtilsTest.ReadSyncSafeInt 1 0.00246574
+UtilsTest.ReadBigEndianInt 1 0.00214269
+UtilsTest.ReadBytesAsString 1 0.00194878
+FrameFactoryTest.CreateUnknownFrame 1 0.00214662
+TextFrameTest.ParseAndPrintViaFactory 1 0.00216706
+ParseID3Test.NonID3Header 1 0.00209593
+ParseID3Test.SimpleTag 1 0.00209956
+---

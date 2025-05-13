@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/id3parser_exec.dir/link.d CMakeFiles/id3parser_exec.dir/main.cpp.o -o id3parser_exec  ../lib/libid3parser.a
