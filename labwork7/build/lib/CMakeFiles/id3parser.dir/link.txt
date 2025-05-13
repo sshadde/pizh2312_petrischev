@@ -1,2 +1,0 @@
-/usr/bin/ar qc libid3parser.a CMakeFiles/id3parser.dir/ID3Parser.cpp.o
-/usr/bin/ranlib libid3parser.a

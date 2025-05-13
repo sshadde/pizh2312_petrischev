@@ -1,5 +1,0 @@
-if(EXISTS "/home/yaroslav/pizh2312_petrischev/labwork7/build/tests/ID3ParserTests[1]_tests.cmake")
-  include("/home/yaroslav/pizh2312_petrischev/labwork7/build/tests/ID3ParserTests[1]_tests.cmake")
-else()
-  add_test(ID3ParserTests_NOT_BUILT ID3ParserTests_NOT_BUILT)
-endif()
