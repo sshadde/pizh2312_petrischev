@@ -1,5 +1,0 @@
-if(EXISTS "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters[1]_tests.cmake")
-  include("/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters[1]_tests.cmake")
-else()
-  add_test(test_adapters_NOT_BUILT test_adapters_NOT_BUILT)
-endif()
