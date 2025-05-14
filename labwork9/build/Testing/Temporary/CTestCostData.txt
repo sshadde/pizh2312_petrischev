@@ -1,0 +1,9 @@
+FilterTest.OddNumbers 1 0.00235436
+TransformTest.Square 1 0.00286482
+TakeTest.FirstN 1 0.00214574
+DropTest.SkipN 1 0.00200848
+ReverseTest.ReverseVector 1 0.00212089
+KeysTest.MapKeys 1 0.00189575
+ValuesTest.MapValues 1 0.00207632
+PipelineTest.CombinedAdapters 1 0.00176239
+---

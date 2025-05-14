@@ -1,0 +1,219 @@
+Start testing: May 14 15:32 MSK
+----------------------------------------------------------
+1/8 Testing: FilterTest.OddNumbers
+1/8 Test: FilterTest.OddNumbers
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=FilterTest.OddNumbers" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"FilterTest.OddNumbers" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = FilterTest.OddNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FilterTest
+[ RUN      ] FilterTest.OddNumbers
+[       OK ] FilterTest.OddNumbers (0 ms)
+[----------] 1 test from FilterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FilterTest.OddNumbers" end time: May 14 15:32 MSK
+"FilterTest.OddNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: TransformTest.Square
+2/8 Test: TransformTest.Square
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=TransformTest.Square" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"TransformTest.Square" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = TransformTest.Square
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TransformTest
+[ RUN      ] TransformTest.Square
+[       OK ] TransformTest.Square (0 ms)
+[----------] 1 test from TransformTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TransformTest.Square" end time: May 14 15:32 MSK
+"TransformTest.Square" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: TakeTest.FirstN
+3/8 Test: TakeTest.FirstN
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=TakeTest.FirstN" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"TakeTest.FirstN" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = TakeTest.FirstN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TakeTest
+[ RUN      ] TakeTest.FirstN
+[       OK ] TakeTest.FirstN (0 ms)
+[----------] 1 test from TakeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TakeTest.FirstN" end time: May 14 15:32 MSK
+"TakeTest.FirstN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: DropTest.SkipN
+4/8 Test: DropTest.SkipN
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=DropTest.SkipN" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"DropTest.SkipN" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = DropTest.SkipN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DropTest
+[ RUN      ] DropTest.SkipN
+[       OK ] DropTest.SkipN (0 ms)
+[----------] 1 test from DropTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DropTest.SkipN" end time: May 14 15:32 MSK
+"DropTest.SkipN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: ReverseTest.ReverseVector
+5/8 Test: ReverseTest.ReverseVector
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=ReverseTest.ReverseVector" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"ReverseTest.ReverseVector" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = ReverseTest.ReverseVector
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ReverseTest
+[ RUN      ] ReverseTest.ReverseVector
+[       OK ] ReverseTest.ReverseVector (0 ms)
+[----------] 1 test from ReverseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ReverseTest.ReverseVector" end time: May 14 15:32 MSK
+"ReverseTest.ReverseVector" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: KeysTest.MapKeys
+6/8 Test: KeysTest.MapKeys
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=KeysTest.MapKeys" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"KeysTest.MapKeys" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = KeysTest.MapKeys
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from KeysTest
+[ RUN      ] KeysTest.MapKeys
+[       OK ] KeysTest.MapKeys (0 ms)
+[----------] 1 test from KeysTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"KeysTest.MapKeys" end time: May 14 15:32 MSK
+"KeysTest.MapKeys" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: ValuesTest.MapValues
+7/8 Test: ValuesTest.MapValues
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=ValuesTest.MapValues" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"ValuesTest.MapValues" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = ValuesTest.MapValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValuesTest
+[ RUN      ] ValuesTest.MapValues
+[       OK ] ValuesTest.MapValues (0 ms)
+[----------] 1 test from ValuesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ValuesTest.MapValues" end time: May 14 15:32 MSK
+"ValuesTest.MapValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: PipelineTest.CombinedAdapters
+8/8 Test: PipelineTest.CombinedAdapters
+Command: "/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/test_adapters" "--gtest_filter=PipelineTest.CombinedAdapters" "--gtest_also_run_disabled_tests"
+Directory: /home/yaroslav/pizh2312_petrischev/labwork9/build/tests
+"PipelineTest.CombinedAdapters" start time: May 14 15:32 MSK
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/debug/gtest/googletest-1.16.0/googletest/src/gtest_main.cc
+Note: Google Test filter = PipelineTest.CombinedAdapters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PipelineTest
+[ RUN      ] PipelineTest.CombinedAdapters
+[       OK ] PipelineTest.CombinedAdapters (0 ms)
+[----------] 1 test from PipelineTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PipelineTest.CombinedAdapters" end time: May 14 15:32 MSK
+"PipelineTest.CombinedAdapters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 14 15:32 MSK

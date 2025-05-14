@@ -1,0 +1,14 @@
+/home/yaroslav/pizh2312_petrischev/labwork9/build/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/lib/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/lib/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/lib/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/bin/CMakeFiles/demo.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/bin/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/bin/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/bin/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/CMakeFiles/test_adapters.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/CMakeFiles/test.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/CMakeFiles/edit_cache.dir
+/home/yaroslav/pizh2312_petrischev/labwork9/build/tests/CMakeFiles/rebuild_cache.dir
