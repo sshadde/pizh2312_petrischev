@@ -1,0 +1,10 @@
+BinarySearchTreeTest.EmptyTree 1 0.00221029
+BinarySearchTreeTest.InsertAndFind 1 0.00244511
+BinarySearchTreeTest.InOrderTraversal 1 0.00234791
+BinarySearchTreeTest.PreOrderTraversal 1 0.00172802
+BinarySearchTreeTest.PostOrderTraversal 1 0.00235382
+BinarySearchTreeTest.EraseLeafNode 1 0.00231146
+BinarySearchTreeTest.EraseNodeWithOneChild 1 0.00248199
+BinarySearchTreeTest.EraseNodeWithTwoChildren 1 0.00200295
+BinarySearchTreeTest.Clear 1 0.00197899
+---

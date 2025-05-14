@@ -1,0 +1,5 @@
+if(EXISTS "/home/yaroslav/pizh2312_petrischev/labwork8/build/tests/test_bst[1]_tests.cmake")
+  include("/home/yaroslav/pizh2312_petrischev/labwork8/build/tests/test_bst[1]_tests.cmake")
+else()
+  add_test(test_bst_NOT_BUILT test_bst_NOT_BUILT)
+endif()
